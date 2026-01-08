@@ -25,6 +25,6 @@ Atliq Grands, a five-star hotel chain in **India**, has been in the hospitality 
 - **Power BI** – Interactive data visualization  
 - **DAX (Data Analysis Expressions)** – Calculated measures for revenue & occupancy analysis  
 - **Power Query** – Data transformation  
-- **Excel/SQL** – Dataset source *  
+- **Excel** – Dataset source  
 
 
